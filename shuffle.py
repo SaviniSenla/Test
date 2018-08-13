@@ -5,3 +5,5 @@ data.sort()
 with open('G:\Dialog\Data Set\shuffled.txt','w') as target:
     for _, line in data:
         target.write( line )
+        
+print("The Change")
